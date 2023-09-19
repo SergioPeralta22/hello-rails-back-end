@@ -10,7 +10,7 @@
   <br/>
   <br/>
   <br/>
-  <h1><b>Greeting App</b></h1><a name="about-project"></a>
+  <h1><b>Greeting App - Backend</b></h1><a name="about-project"></a>
 </div>
 
 
@@ -23,7 +23,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Greeting App ](#-about-project)
+- [📖 Greeting App - Backend ](#-about-project)
     - [🛠 Built With ](#-built-with-)
         - [Tech Stack ](#tech-stack-)
         - [Key Features ](#key-features-)
@@ -42,9 +42,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Greeting App <a name="about-project"></a>
+# 📖 Greeting App - Backend <a name="about-project"></a>
 
-> This is a app to greet users. Yes, I know, they made me do this, sorry. 
+> This is the backend of an application to greet users. Yes, I know, they made me do this, sorry. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +70,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **It contains one table with different greetings**
-- **Every time that page is reload the greeting change**
+- **It contains a endpoint to get greetings**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/SergioPeralta22/MV-rails-webpack.git
+  git clone https://github.com/SergioPeralta22/hello-rails-back-end.git
 ```
 
 ### Install
@@ -128,15 +128,6 @@ Create and migrate the database with:
 rails db:create
 rails db:migrate
 rails db:seed
-```
-
-### Compile with Webpack
-
-
-To compile the project with webpack, run the following command:
-
-```
-npm run build
 ```
 
 ### Usage
@@ -186,8 +177,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add styles**
-- [ ] **Improve the UI**
+- [ ] **Add more endpoints**
+- [ ] **Add validations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
