@@ -44,7 +44,9 @@
 
 # 📖 Greeting App - Backend <a name="about-project"></a>
 
-> This is the backend of an application to greet users. Yes, I know, they made me do this, sorry. 
+> This is the backend part of a full-stack application built with rails as an api and react for the front end. This app show you a random message every time that you reload the page.
+
+Follow this [Link](https://github.com/SergioPeralta22/hello-react-front-end) to see the front-end repo
 
 ## 🛠 Built With <a name="built-with"></a>
 
