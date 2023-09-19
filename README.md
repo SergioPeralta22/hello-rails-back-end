@@ -55,7 +55,6 @@
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
-    <li><a href="https://reactjs.org/">React</a></li>
   </ul>
 </details>
 
